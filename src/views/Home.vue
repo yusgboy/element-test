@@ -6,7 +6,7 @@
           $router.push({ name: 'login', query: { id: 1 } });
         }
       "
-      >去登录ssss</el-button
+      >去登录吧</el-button
     >
   </div>
 </template>
